@@ -44,6 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 [Test GIF](https://imgur.com/qhympGN)
+https://i.imgur.com/qhympGN.mp4
 
 
 ## Reflection Questions
