@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Test GIF](https://cdn.glitch.com/4b55c717-1f82-4535-bcd9-b5c8edb54fc5%2Ftest_piano.gif?v=1616146728645)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/CULCRxJ"  ><a href="//imgur.com/a/CULCRxJ">test-piano</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Reflection Questions
