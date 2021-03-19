@@ -45,7 +45,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 [Test GIF](https://imgur.com/qhympGN)
 https://i.imgur.com/qhympGN.mp4
-![image](https://user-images.githubusercontent.com/44652122/111766188-98116880-88e8-11eb-940f-10184af503ab.png)
+![image](https://user-images.githubusercontent.com/44652122/111766188-98116880-88e8-11eb-940f-10184af503ab.gif)
+
+
 
 
 ## Reflection Questions
