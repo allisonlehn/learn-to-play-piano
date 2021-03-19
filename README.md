@@ -44,8 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 [Test GIF](https://imgur.com/qhympGN)
-https://i.imgur.com/qhympGN.mp4
-![image](https://user-images.githubusercontent.com/44652122/111766188-98116880-88e8-11eb-940f-10184af503ab.gif)
+![Test GIF](https://cdn.glitch.com/4b55c717-1f82-4535-bcd9-b5c8edb54fc5%2Ftest_piano.gif?v=1616146728645)
 
 
 
