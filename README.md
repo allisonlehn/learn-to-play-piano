@@ -43,9 +43,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[Test GIF](https://imgur.com/qhympGN)
-
-![](test-piano.gif)
 
 ![](https://github.com/allisonlehn/learn-to-play-piano/blob/main/test_piano.gif?raw=true)
 
