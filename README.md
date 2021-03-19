@@ -43,12 +43,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[Imgur](https://imgur.com/ybNvbzR)
+[Test GIF](https://imgur.com/qhympGN)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
- [- I refereneced [this](https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio) documentation to figure out how to get the AudioContext to load when I opened the game in a new tab.  
+ - I refereneced [this](https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio) documentation to figure out how to get the AudioContext to load when I opened the game in a new tab.  
 - I used [coolers](https://coolors.co/4c9f70-e8d7ff-1c5d99-267dcf-ffd166-ffc233-62bfed) to create the color scheme and reference hex codes.  
 - I referenced [this](https://cssreference.io/) for modifying CSS (box and text style, positioning).  
 - I used [this sheet music](https://youtu.be/8UJAol7ndfM) to write the pattern for one of the patterns.  
