@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 
 ![](test-piano.gif)
 
-https://github.com/allisonlehn/learn-to-play-piano/blob/main/test_piano.gif?raw=true
+![](https://github.com/allisonlehn/learn-to-play-piano/blob/main/test_piano.gif?raw=true)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
