@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>learn to play piano!</h1>
+  
+    <p id="instruct1">
+      choose one of the levels to start:
+    </p>
+    <p id="instruct2" class="hidden">
+      press end to quit:
+    </p>
+    <p>
+      <div id="startButtons">
+      <button id="easyStart" onclick="startGame(easy)">easy</button>
+      <button id="medStart" onclick="startGame(med)">medium</button>
+      <button id="hardStart" onclick="startGame(hard)">hard</button>
+      <button id="infinity" onclick="startGame('inf')">infinite mode</button>
+      <!--IGNORE: BUTTON THAT CONTROLS WHOLE SONG TESTING CONDITION <button id="test" onclick="startGame('test')">test songs</button>-->
+      <button id="stopBtn" class="hidden" onclick="stopGame()">end</button>
+    </div>
+    </p>
+    <div>
+      <div id = "lives" class = "hidden"></div>
+    </div>
+    <p id="gameButtonArea">
+        <button id="c" class="white" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)"></button>
+        <button id="cS" class="black" onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)"></button>
+        <button id="d" class="white" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)"></button>
+        <button id="dS" class="black" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)"></button> 
+        <button id="e" class="white" onmousedown="startTone(5)" onmouseup="stopTone()" onclick="guess(5)"></button>
+        <button id="f" class="white" onmousedown="startTone(6)" onmouseup="stopTone()" onclick="guess(6)"></button>
+        <button id="fS" class="black" onmousedown="startTone(7)" onmouseup="stopTone()" onclick="guess(7)"></button>
+        <button id="g" class="white" onmousedown="startTone(8)" onmouseup="stopTone()" onclick="guess(8)"></button>
+        <button id="gS" class="black" onmousedown="startTone(9)" onmouseup="stopTone()" onclick="guess(9)"></button>
+        <button id="a" class="white" onmousedown="startTone(10)" onmouseup="stopTone()" onclick="guess(10)"></button>
+        <button id="aS" class="black" onmousedown="startTone(11)" onmouseup="stopTone()" onclick="guess(11)"></button>
+        <button id="b" class="white" onmousedown="startTone(12)" onmouseup="stopTone()" onclick="guess(12)"></button>
+        <button id="C" class="white" onmousedown="startTone(13)" onmouseup="stopTone()" onclick="guess(13)"></button>
+        <button id="CS" class="black" onmousedown="startTone(14)" onmouseup="stopTone()" onclick="guess(14)"></button>
+        <button id="D" class="white" onmousedown="startTone(15)" onmouseup="stopTone()" onclick="guess(15)"></button>
+        <button id="DS" class="black" onmousedown="startTone(16)" onmouseup="stopTone()" onclick="guess(16)"></button> 
+        <button id="E" class="white" onmousedown="startTone(17)" onmouseup="stopTone()" onclick="guess(17)"></button>
+        <button id="F" class="white" onmousedown="startTone(18)" onmouseup="stopTone()" onclick="guess(18)"></button>
+        <button id="FS" class="black" onmousedown="startTone(19)" onmouseup="stopTone()" onclick="guess(19)"></button>
+        <button id="G" class="white" onmousedown="startTone(20)" onmouseup="stopTone()" onclick="guess(20)"></button>
+        <button id="GS" class="black" onmousedown="startTone(21)" onmouseup="stopTone()" onclick="guess(21)"></button>
+        <button id="A" class="white" onmousedown="startTone(22)" onmouseup="stopTone()" onclick="guess(22)"></button>
+        <button id="AS" class="black" onmousedown="startTone(23)" onmouseup="stopTone()" onclick="guess(23)"></button>
+        <button id="B" class="white" onmousedown="startTone(24)" onmouseup="stopTone()" onclick="guess(24)"></button>
+    </p>
+    
+  </body>
+</html>
