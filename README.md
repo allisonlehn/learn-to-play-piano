@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CULCRxJ"  ><a href="//imgur.com/a/CULCRxJ">test-piano</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/ybNvbzR)
 
 
 ## Reflection Questions
