@@ -25,18 +25,18 @@ The following **optional** features are implemented:
 * [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [X] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [X] More than 4 functional game buttons
-* [  ] Playback speeds up on each turn
+* [ ] Playback speeds up on each turn
 * [X] Computer picks a different pattern each time the game is played
 * [X] Player only loses after 3 mistakes (instead of on the first mistake)
-* [  ] Game button appearance change goes beyond color (emodified shape and position
-* [  ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [  ] User has a limited amount of time to enter their guess on each turn
+* [ ] Game button appearance change goes beyond color (emodified shape and position
+* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+* [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
 
 - [X] Create entire piano with buttons corresponding to actual frequences, stretching two octaves
-- [X]Install actual melodies to play
+- [X] Install actual melodies to play
 - [X] Make easy, medium, and hard modes based on length of melodies
 - [X] Have an infinite run mode that runs like classic version, picking random notes until user fails
 
