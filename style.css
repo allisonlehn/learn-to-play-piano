@@ -1,0 +1,60 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: sans-serif;
+  background-color: #62BFED;
+  color: #1C5D99;
+  font-weight : bold;
+  margin: 2em;
+}
+
+h1 {
+  font-family: sans-serif; 
+  color: white;
+  text-shadow: 2.5px 2.5px #1C5D99;
+}
+
+button {
+  font-family: sans-serif;
+  padding: 15px;
+  border-radius: 5px;
+  border : none;
+  box-shadow : 2.5px 2.5px #1C5D99;
+  font-weight : 600;
+  color: #1C5D99;
+}
+
+#startButtons > button{
+  background: #FFD166;
+  
+}
+
+#gameButtonArea > button {
+  position: relative;
+  
+}
+
+.hidden {
+  display:none;
+}
+
+
+.white {
+  background: white;
+  width:5em;
+  height:20em;
+}
+.black {
+  background: black;
+  height: 13em;
+  width: 4em;
+  z-index: 1;
+  bottom: 7em;
+  margin: -2.2em;
+}
+.white:active, .black:active  {
+  background: #267DCF;
+}
+.white.lit, .black.lit {
+  background: #FFC233;
+}
